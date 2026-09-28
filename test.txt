@@ -4,3 +4,4 @@ Blast 3
 Blast 4
 Blast 5
 Blast 6
+Blast 7
